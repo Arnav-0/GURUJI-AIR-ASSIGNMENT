@@ -1,0 +1,36 @@
+{
+    "cnn_metrics": {
+        "accuracy": 0.5125,
+        "precision": 0.5135135135135135,
+        "recall": 0.475,
+        "f1_score": 0.4935064935064935,
+        "auc": 0.49125,
+        "confusion_matrix": [
+            [
+                22,
+                18
+            ],
+            [
+                21,
+                19
+            ]
+        ]
+    },
+    "svm_metrics": {
+        "accuracy": 0.825,
+        "precision": 0.782608695652174,
+        "recall": 0.9,
+        "f1_score": 0.8372093023255814,
+        "auc": 0.909375,
+        "confusion_matrix": [
+            [
+                30,
+                10
+            ],
+            [
+                4,
+                36
+            ]
+        ]
+    }
+}
