@@ -19,7 +19,7 @@ This project implements a complete mmWave radar signal processing and classifica
 
 ## Demo Video
 
-**📹 [Watch Complete Execution Demo](outputs/videos/demo_execution.mp4)**
+**📹 [Watch Complete Execution Demo](outputs/videos/demo.mp4)**
 
 The video demonstrates:
 - Environment setup and dependency installation
