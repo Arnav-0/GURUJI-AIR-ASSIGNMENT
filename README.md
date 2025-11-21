@@ -306,13 +306,13 @@ Metal            5       35
 ### Files Generated
 
 **Models:**
-- `data/models/cnn_model_best.h5` (27.39 MB)
-- `data/models/cnn_model_final.h5` (27.39 MB)
+- `data/models/cnn_model_best.h5` 
+- `data/models/cnn_model_final.h5` 
 - `data/models/svm_model.pkl`
 
 **Datasets:**
-- `data/processed/full_dataset.npz` (11.79 MB, 400 samples)
-- `data/processed/cluttered_dataset_preprocessed.npz` (4.5 MB, 100 scenarios)
+- `data/processed/full_dataset.npz` (400 samples)
+- `data/processed/cluttered_dataset_preprocessed.npz` (100 scenarios)
 
 **Results:**
 - `outputs/results/classification_results.json`
